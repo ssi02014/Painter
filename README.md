@@ -2,7 +2,6 @@
 <h1> Simple Painter Clone_Coding </h1>
 <h2> 사용 기술: HTML, CSS, Vanilla JS </h2>
 
-<h3> Click URL: https://ssi02014.github.io/Painter/ </h3>
 
 <h3>결과 화면</h3>
 
