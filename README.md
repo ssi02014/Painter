@@ -5,4 +5,5 @@
 
 <h3>결과 화면</h3>
 
-![6](https://user-images.githubusercontent.com/64779472/95213268-987de180-0829-11eb-8a95-1361d0812cfc.PNG)
+![캡처](https://user-images.githubusercontent.com/64779472/98515642-b0c0a080-22ae-11eb-9c76-f6b9ef2d90b3.PNG)
+
